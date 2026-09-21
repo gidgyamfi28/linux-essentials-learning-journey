@@ -18,3 +18,7 @@ I am documenting each module separately so that I can keep track of what I have 
 ### [Module 1: Linux Foundations](./module-1-linux-foundations/)
 
 In this module, I learned about where Linux is used, what the Linux kernel actually does, the idea behind open-source software, Linux distributions, and the importance of the command line. I also practised some basic Linux commands on my Ubuntu environment.
+
+### [Module 2: Operating Systems](./module-2-operating-systems/)
+
+In this module, I learned more about how operating systems manage hardware and applications, the factors that should be considered when choosing an operating system, and some of the differences between Windows, macOS, and Linux. I also looked at how Windows Subsystem for Linux allows me to use Ubuntu directly from my Windows computer.
