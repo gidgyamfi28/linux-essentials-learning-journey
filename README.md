@@ -10,3 +10,11 @@ For my hands-on practice, I am currently using:
 - Windows Subsystem for Linux (WSL 2)
 - Windows Terminal
 - Bash
+
+## Course Documentation
+
+I am documenting each module separately so that I can keep track of what I have learned and the practical work I have completed as I progress through the course.
+
+### [Module 1: Linux Foundations](./module-1-linux-foundations/)
+
+In this module, I learned about where Linux is used, what the Linux kernel actually does, the idea behind open-source software, Linux distributions, and the importance of the command line. I also practised some basic Linux commands on my Ubuntu environment.
